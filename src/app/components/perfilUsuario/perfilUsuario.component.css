@@ -1,0 +1,76 @@
+#container{
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    height: 30%;
+    float: left;
+}
+
+#heaUsuario{
+    background-color: rgba(199, 81, 51, 0.9);
+    width: 100%;
+    height: 70%;
+    float: left;
+}
+
+#logo{
+    background-color:transparent;
+    width: 12%;
+    height: 90%;
+    margin-top: 0.8%;
+    margin-left: 10%;
+    float: left;
+}
+
+#nombre{
+    background-color:transparent;
+    width: 30%;
+    height: 50%;
+    margin-top: 3%;
+    margin-left: 1%;
+    font-size: 82px;
+    color: white;
+    float: left;
+}
+
+#buscar{
+    background-color: white;
+    width: 22%;
+    height: 35%;
+    margin-top: 3.5%;
+    margin-left: 10%;
+    border-radius: 10px;
+    float: left;
+}
+
+input{
+    width: 72%;
+    height: 90%;
+    margin-top: 0.5%;
+    font-size: xx-large;
+    text-align: center;
+    border-radius: 10px;
+    border: none;
+    float: left;
+}
+
+button{
+    background-image: url('../../../assets/img/diskman.png');
+    background-size: 100% 100%;
+    width: 26%;
+    height: 90%; 
+    margin-top: 0.5%;
+    border: none;
+    float: left;
+}
+#navUsuario{
+    background-image: linear-gradient(to right, white,grey, black);
+    width: 100%;
+    height: 30%;
+    float: left;
+    float: left;
+}
+
+img{
+    width: 100%;
+    height: 100%;
+}
